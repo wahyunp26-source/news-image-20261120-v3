@@ -1,8 +1,8 @@
 # Friday 20 November 2026 — The World in One Day (v3)
 
-[![Competition](https://make.fun/api/competitions/news-image-20261120/badge/competition)](https://make.fun/bounty/news-image-20261120)
-[![Rank](https://make.fun/api/competitions/news-image-20261120/badge/rank)](https://make.fun/bounty/news-image-20261120)
-[![Reward](https://make.fun/api/competitions/news-image-20261120/badge/reward)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/wahyunp26-source/news-image-20261120-v3/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/wahyunp26-source/news-image-20261120-v3/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up Friday 20 November 2026's world news — 36 stories,
 6 continents, in a classic newspaper front page.
